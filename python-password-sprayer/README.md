@@ -60,7 +60,7 @@ Clone the source code from git and create myconf.yaml with required information.
 Run the script with:
 
 ```
-python3 -m username_bruteforcer my_conf.yaml
+python3 -m password_sprayer my_conf.yaml
 
 ```
 
