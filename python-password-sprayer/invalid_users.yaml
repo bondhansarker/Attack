@@ -1,0 +1,14 @@
+post:
+  users_pwd:
+  - password: 111111
+    user: bsmith@blah.com
+  - password: 111111
+    user: jbloggs@blah.com
+  - password: 222222
+    user: bsmith@blah.com
+  - password: 222222
+    user: jbloggs@blah.com
+  - password: New1user!
+    user: bsmith@blah.com
+  - password: New1user!
+    user: jbloggs@blah.com

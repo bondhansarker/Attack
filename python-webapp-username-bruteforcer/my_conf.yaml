@@ -1,0 +1,14 @@
+url: "https://staging.onemain.financial/log-in"
+
+user_field: "login_id"
+password_field: "password"
+
+data: null
+
+methods:
+  - POST
+
+user: "classdevtest11@omf.com"
+
+passwords:
+  - 123456
